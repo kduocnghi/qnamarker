@@ -1,0 +1,13 @@
+.buttonKB{
+  margin: 10px;
+}
+
+.cardKB{
+  margin-bottom: 20px;
+}
+.card-header{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.card-body {
+  background-color: antiquewhite;
+}
